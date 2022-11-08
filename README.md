@@ -7,7 +7,8 @@ Here are the interactive Dashobards the students had to create :
 https://r7j1u7jikt2zs44.eu.qlikcloud.com/sense/app/f5976571-fe8d-4f6f-a465-f7fbcff2b0ca/sheet/599fde48-b026-4028-a55c-c863c3c5c6b6/state/analysis
 
 https://r7j1u7jikt2zs44.eu.qlikcloud.com/sense/app/f5976571-fe8d-4f6f-a465-f7fbcff2b0ca/sheet/e4fa2fe7-382c-4db5-8efb-9bd30a4c1a2c/state/analysis
-![image](https://user-images.githubusercontent.com/114347666/200631972-6dd05304-b524-43ba-baa0-7a1bbd4788c1.png)
+![Dashboard_Distribution_marchandise_ac_Qlik](https://user-images.githubusercontent.com/114347666/200632100-12f65420-b2a3-4abf-8ab8-61f80cdd28ef.PNG)
+
 
 
 
