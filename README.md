@@ -1,7 +1,7 @@
 # Qlik-Dasboards # Data-visualisation
 Design of a Qlik discovery workshop for students in Computer Science and Statistics for Data Science (MASTER 2). 
  
-Imagined merchant contexte : an office supplies company for several customer segments based in Canada wants to analyze the performance of its activity and identify ways to save money
+Context : an office supplies company for several customer segments based in Canada wants to analyze the performance of its activity and identify ways to save money
 
 Here are the interactive Dashobards the students had to create : 
 
